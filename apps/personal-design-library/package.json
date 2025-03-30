@@ -1,0 +1,8 @@
+{
+  "name": "@personal-design-library/personal-design-library",
+  "version": "0.0.1",
+  "private": true,
+  "nx": {
+    "name": "personal-design-library"
+  }
+}
