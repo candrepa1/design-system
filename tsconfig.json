@@ -8,6 +8,19 @@
     },
     {
       "path": "./apps/personal-design-library"
+    },
+    {
+      "path": "./packages"
+    },
+    {
+      "path": "./packages/button"
     }
-  ]
+  ],
+  "ts-node": {
+    "compilerOptions": {
+      "module": "commonjs",
+      "moduleResolution": "node10",
+      "customConditions": null
+    }
+  }
 }
